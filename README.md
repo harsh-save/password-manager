@@ -1,4 +1,4 @@
-# Password manager using ReactJS
+# Password generator using ReactJS
 
 ![Screenshot 2024-01-17 090045](https://github.com/harsh-save/password-manager/assets/106505721/0ae25106-e694-4a92-90a4-51af0cc1c673)
 
